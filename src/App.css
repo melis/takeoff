@@ -1,0 +1,27 @@
+.login_form {
+  display: flex;
+  width: 300px;
+  padding: 15px;
+  background-color: gray;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 30px;
+  gap: 15px;
+}
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 15px;
+}
+.card {
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.card > div {
+  width: 30%;
+}
