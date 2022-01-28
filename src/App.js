@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter as Router, Route, Redirect } from "react-router-dom";
+import { Route, Redirect } from "react-router-dom";
 import { useState } from "react";
 import Sigin from "./components/Sigin/Sigin";
 import Contacts from "./components/Contacts/Contacts";
